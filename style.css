@@ -1,0 +1,47 @@
+#LoginArea{
+    margin: 10%;
+    padding: 100px;
+    box-shadow: 8px 8px 12px lightgray;
+}
+
+#secondpage{
+    display: none;
+}
+
+#InformationArea{
+    text-align: center;
+    margin: 50px 120px;
+    padding: 2%;
+    
+}
+
+
+.deposite{
+    background-color: slateblue;
+}
+.withdraw{
+    background-color:lightsalmon;
+}
+.balance{
+    background-color: orange;
+}
+
+.boxsize{
+
+    padding: 5%;
+    margin: 5px 20px;
+    border-radius: 10px;
+    color: white;
+}
+
+
+.inputarea{
+    margin: 8%;
+}
+
+.inputbox{
+    box-shadow: 5px 5px 10px gainsboro;
+    padding: 10%;
+    margin: 5px 20px;
+    
+}
